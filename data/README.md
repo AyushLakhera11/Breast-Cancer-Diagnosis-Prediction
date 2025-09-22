@@ -6,7 +6,7 @@ The workflow includes data preprocessing, exploratory data analysis (EDA), featu
 
 ---
 
-## Objectives
+## Objective
 - **Perform data analysis and feature engineering** to understand important predictors in breast cancer diagnosis.  
 - **Build and evaluate machine learning models** (Logistic Regression, Random Forest, SVM) to classify breast cancer with high accuracy.
 
